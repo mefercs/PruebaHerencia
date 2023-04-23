@@ -1,0 +1,5 @@
+//###############################
+enum TipoEstudiante{
+  REGULAR,
+  IRREGULAR
+}
