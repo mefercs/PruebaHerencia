@@ -1,3 +1,5 @@
+import java.util.Scanner;
+import java.sql.Date;
 //###############################
 class JefeGrupo{
   public String nomGrupo;

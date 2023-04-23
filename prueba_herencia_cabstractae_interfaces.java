@@ -10,6 +10,7 @@ import java.util.Scanner;
 //###############################
 class prueba_herencia_cabstractae_interfaces{
   public static void main(String[] args) {
+    System.out.println("PROFE ESTO ESTABA LARGUISIMO AAAAAA");
  
     System.out.println("\n\n########################################################################");
     System.out.println("PROBANDO CLASE Personalapoyo");

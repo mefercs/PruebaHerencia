@@ -1,3 +1,12 @@
+import java.beans.PropertyChangeEvent;
+import java.lang.invoke.ConstantBootstraps;
+import java.net.NoRouteToHostException;
+import java.rmi.StubNotFoundException;
+import java.sql.Date;
+import java.time.temporal.Temporal;
+import java.util.GregorianCalendar;
+import java.util.Scanner;
+
 //##############################
 class AlumnoConsejero extends JefeGrupo implements Coordinador,Consejero{
   public String carrera;
