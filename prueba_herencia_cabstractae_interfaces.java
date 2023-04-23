@@ -96,10 +96,10 @@ class prueba_herencia_cabstractae_interfaces{
     jefe.organizar("Entrega de examen", 24, 5);
     jefe.convocarReunion("Reunion de consejo estudiantil.");
     System.out.println("\nProbando atributos y metodos definidos de JefaturaDepartamento para el jefe");
-    System.out.println("Atributo: incentivo"+ jefe.incentivo);
+    System.out.println("Atributo: incentivo= "+ jefe.incentivo);
     jefe.revisarReporte();
     tempoDoble = jefe.establecerIncentivo(50);
-    System.out.println("El metodo establecerIncentivo(), regreso" + tempoDoble);
+    System.out.println("El metodo establecerIncentivo(), regreso= " + tempoDoble);
   }
 }
 
